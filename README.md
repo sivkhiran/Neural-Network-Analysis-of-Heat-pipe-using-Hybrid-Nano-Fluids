@@ -110,3 +110,80 @@ The final product obtained was alumina nanoparticles in powder form.
 The __Alumina__ nanoparticles were then mixed with distilled water and placed in an ultrasonic vibrator to form an alumina nanofluids.
 
 <img src = https://github.com/sivkhiran/Images/blob/main/Alumina%20fluid.png width="300" />
+
+## Experimental Analysis of Heat Pipe using Hybrid Nano Fluids 
+
+A heat pipe charged with hybrid nanofluid was investigated for its performance by
+varying parameters such as
+
+* __Heat input__,
+
+* __Fluid Ratio__,
+
+* __Inclination__, and
+
+* __Flow rate__.
+
+The __heat inputs__ are varied from __40 to 100 W__, two __fluid ratios__ such as __80:20, and
+60:40__, __the inclination angle of are 0°, 30°, and 45°__, and the __flow rates__ of __200 and 300
+ml/min__. The two __nanofluids used in this investigation are silver nanofluid and
+Al₂O₃__. They were mixed in the ratio of __60:40 and 80:20__ and prepared as hybrid
+nanofluid and used in this investigation.
+
+<img src = https://github.com/sivkhiran/Images/blob/main/0%20Degree%20.png width="600" />
+<img src = https://github.com/sivkhiran/Images/blob/main/30%20Degree.png width="600" />
+<img src = https://github.com/sivkhiran/Images/blob/main/45%20Degree.png width="600" />
+
+
+## Deep Convolutional Neural Network 
+
+__Deep Convolutional Neural Networks (DCNN)__ is the most admired deep
+learning architecture. Researchers are using deep learning to solve many
+problems since they are computationally efficient. It utilizes effective
+convolution operation followed by pooling operation and performs sharing
+of parameters.
+
+__WHAT WE DO :__
+
+We will be generating a DCNN MODEL using python language which will be
+predicting the output data.
+
+For this , the computer first require data which is already available to learn how the
+process is being done and what is actually undergone to get such output .
+
+The code contains two major parts
+
+1. Training
+
+2. Testing
+
+__TRAINING:__
+
+Training is basically the process, where we provide the available data to the
+computer through which it learns the process.
+
+__TESTING:__
+
+Testing is the process where we just give the input values and the computer
+predicts the output with the help of training it has undergone.
+
+<img src = https://github.com/sivkhiran/Images/blob/main/Input%20Parameters.png width="600" />
+
+After importing the training and test data, we decided to use the __Keras__ model and set the __epochs to 300__, as it demonstrated a lower percentage of error compared to others.
+
+<img src = https://github.com/sivkhiran/Images/blob/main/Epoches%20300.png width="600" />
+<img src = https://github.com/sivkhiran/Images/blob/main/Error%20%25.png width="600" />
+
+## Conclusion
+
+In this project work, an analysis of a heat pipe using a hybrid nanofluid was conducted using neural network techniques.
+
+A __Deep Convolutional Neural Network (DCNN)__ was adopted for the analysis. The __experimental analysis clearly revealed that while the surface temperature of the heat pipe increases with an increase in input heat, it gradually decreases when moving away from the evaporator section__.
+
+Using the experimental data, a DCNN model was developed for the heat pipe utilizing the hybrid nanofluid. This model has been validated against a set of experimental data.
+
+The __DCNN model__, with a __precision of 0.991, accurately predicts the outlet temperature of the heat pipe__ using a hybrid nanofluid composed of Ag and Al₂O₃. The model takes into account different inclinations of the heat pipe, flow rates, fluid ratios, and heat inputs.
+
+The temperatures predicted by the model have been used to estimate the efficiency of the heat pipe. A __coefficient of determination of 0.991 obtained in the DCNN model__ strongly indicates that the DCNN approach can be effectively extended to predict the performance of heat pipes.
+
+The analysis shows that the efficiency of the heat pipe increases with a decrease in the water inlet temperature, while it decreases with an increase in heat input. Furthermore, it is __evident from the analysis that the water outlet temperature increases with an increase in fluid ratio and also rises with an increase in the water inlet temperature__.
