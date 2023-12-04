@@ -67,6 +67,46 @@ Working Fluid used in this study are <img src = https://github.com/sivkhiran/Ima
 * __Ag - Silver__
 * __Al2O3 - Aluminium Oxide__
 
+## Nano Fluids Preparations: 
 
+__Silver Nanoparticles (Ag)__ and its Preperation
 
+Silver nano-particles are nano particles of silver of between __1 nm and 100 nm__ in
+size.
 
+Silver nanoparticles are prepared by the following methods
+
+* Synthesis Methods
+
+  * Wet Chemistry Method
+
+  * Monosaccharide Reduction
+
+  * __Sodium Citrate Reduction__
+
+  * Reduction via Sodium Borohydride
+
+  * Light – Mediated Growth
+
+  * Silver Mirror Reaction
+
+* Ion Implantation
+
+* Biological Synthesis
+
+__SODIUM CITRATE REDUCTION METHOD HAS BEEN ADOPTED
+FOR THE PREPARATION OF SILVER NANOPARTICLE.__
+
+Silver nanofluid solutions were prepared through the reduction of silver nitrate in an aqueous solution using citrate. __10 mg of AgNO₃__ was dissolved in 50 ml of double-distilled water, and this solution was brought to a boil. Subsequently, a 1% solution of sodium citrate was added dropwise over a period of 10 minutes. The solution was maintained at a boil for approximately 1 hour. The final product exhibited a greenish-yellow color and had an absorption maximum at 444 nm.
+
+<img src = https://github.com/sivkhiran/Images/blob/main/Silver%20Nano%20Fluid.png width="300" />
+
+__Aluminium Oxide (Alumina) Nanoparticles (Al₂O₃) and Its Preperation__
+
+Aqueous solutions of aluminum nitrate and urea were prepared at the desired concentrations. These solutions were then mixed together and heated until the temperature reached 100°C. The reaction produced aluminum hydroxide, a gelatinous precipitate, which was subsequently filtered and heated to temperatures above 250°C.
+
+The final product obtained was alumina nanoparticles in powder form.
+
+The __Alumina__ nanoparticles were then mixed with distilled water and placed in an ultrasonic vibrator to form an alumina nanofluids.
+
+<img src = https://github.com/sivkhiran/Images/blob/main/Alumina%20fluid.png width="300" />
