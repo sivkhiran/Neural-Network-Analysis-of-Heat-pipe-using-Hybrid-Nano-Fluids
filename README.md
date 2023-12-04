@@ -1,4 +1,4 @@
-# Neural-Network-Analysis-of-Heat-pipe-using-Hybrid-Nano-Fluids
+# <img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="80" /> Neural Network Analysis of Heat pipe using Hybrid Nano Fluids
 
 ## Objective of the project
 * The main objective of this project is to analyze the performance of a
@@ -187,3 +187,5 @@ The __DCNN model__, with a __precision of 0.991, accurately predicts the outlet 
 The temperatures predicted by the model have been used to estimate the efficiency of the heat pipe. A __coefficient of determination of 0.991 obtained in the DCNN model__ strongly indicates that the DCNN approach can be effectively extended to predict the performance of heat pipes.
 
 The analysis shows that the efficiency of the heat pipe increases with a decrease in the water inlet temperature, while it decreases with an increase in heat input. Furthermore, it is __evident from the analysis that the water outlet temperature increases with an increase in fluid ratio and also rises with an increase in the water inlet temperature__.
+
+* Link to the code: https://github.com/sivkhiran/Neural-Network-Analysis-of-Heat-pipe-using-Hybrid-Nano-Fluids/blob/main/7_final_final_mechcode.ipynb
